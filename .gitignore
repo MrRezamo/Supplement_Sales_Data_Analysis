@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+Supp_Sale/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+data/raw/
+data/processed/
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+*.pid
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.db
+*.sqlite
+
+# Virtual environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Machine learning model files
+*.h5
+*.pkl
+*.model
+*.joblib
+
+# Secrets
+kaggle.json
